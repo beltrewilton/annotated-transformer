@@ -2,7 +2,7 @@ Code for The Annotated Transformer blog post:
 
 http://nlp.seas.harvard.edu/annotated-transformer/
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harvardnlp/annotated-transformer/blob/master/AnnotatedTransformer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s8H7wwZZRn0Vofk3nMDHhud8CaQfBChX)
 
 ![image](https://user-images.githubusercontent.com/35882/166251887-9da909a9-660b-45a9-ae72-0aae89fb38d4.png)
 
